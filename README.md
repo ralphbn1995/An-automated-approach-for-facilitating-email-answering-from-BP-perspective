@@ -9,11 +9,11 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisite
-###Structured event log
+### Structured event log
 
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives">
+    <img src="IMG.png" alt="Logo" width="80" height="80">
   </a></div>
 
 <p align="justify">To learn from the previously received emails useful BP knowledge enabling the generation of BP oriented recommendations concerning email responses, we converted the email log of previously sent emails into a structure called event log to associate with each email all the useful BP knowledge. To do so, we were based on the worf of Elleuch et al. [1] </p>
