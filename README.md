@@ -4,11 +4,10 @@
 ### About The Project
 <p align="justify">Today, emailing systems are one of the information systems that are increasingly used for performing business process (BP) activities. The emails that present the execution logs of these information systems are therefore rich in business knowledge. This makes their analysis to improve their management an added value in the context of BPM (BP management). However, the emails are of unstructured textual nature, which makes this difficult. As a result, employees have only partial access to corporate email business knowledge if they only rely on traditional search methods, which are additionally slow and time consuming. Furthermore, employees usually have to compose emails when performing their repetitive BP activities, even though their textual contents tend to be similar. In this paper, we propose an automated approach to improve email management in the BP context. We mainly focus on recommending useful BP knowledge and email templates when responding to an incoming email. These BP knowledge are about the set of activities to be expressed in the email responses, the intention from expressing them in the email (i.e. speech act) and the manipulated business data. Our work differentiate from existing works according to two fields: (1) In the field of process prediction, we consider non-structured textual data (i.e. emails) for recommending/predicting next activities knowing those that are in progress, and (2) In the field of email recommendation, we inject BP knowledge of incoming emails to provide BP oriented suggessions concerning the texual content of email responses.</p>
 
-### Content of this reposeteryy
+### Content of this repository
 This repository contains an essential part of the implemented approach for e-mail responses recommendation from business process perspectives.
 
-### Prerequisite
-### Structured event log
+### Prerequisite: Structured event log
 
 <div align="center">
   <a href="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives">
