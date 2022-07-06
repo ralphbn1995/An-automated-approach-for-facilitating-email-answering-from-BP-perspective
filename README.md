@@ -7,6 +7,11 @@
 ### Content of this repository
 This repository contains an essential part of the implemented approach for e-mail responses recommendation from business process perspectives.
 
+<div align="center">
+  <a href="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives">
+    <img src="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives/blob/main/IMG.PNG?raw=true" alt="Logo" >
+  </a></div>
+
 ### Prerequisite: Structured event log
 
 <div align="center">
