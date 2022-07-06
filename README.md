@@ -6,7 +6,7 @@
 
 ### Content of this repository
 
-Our goal is to recommend email responses and business data values based on a received e-mail. The proposed approach shown in the following figure is divided into two main phases: (1) A learning phase where BP knowledge are discovered from emails and the recommender model is trained, (2) A recommendation phase where the discovered BP knowledge are used to provide suggestions to email users. In this repository, we presents the essential part of the recommendation phase implemented in this approach.
+Our goal is to recommend email responses and business data values based on a received e-mail. The proposed approach shown in the following figure is divided into two main phases: (1) A learning phase where BP knowledge are discovered from emails and the recommender model is trained, (2) A recommendation phase where the discovered BP knowledge are used to provide suggestions to email users. In this repository, we presents the essential part of the recommendation phase implemented in this approach: (i) Recommend_email_responses_templates.ipynb, and (ii) BP_knowledge_recommender_learned_model.ipynb.
 
 <div align="center">
   <a href="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives">
