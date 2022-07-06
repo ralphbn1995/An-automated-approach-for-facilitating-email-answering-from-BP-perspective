@@ -9,16 +9,14 @@
 Our goal is to recommend email responses and business data values based on a received e-mail. The proposed approach shown in the following figure is divided into two main phases: (1) A learning phase where BP knowledge are discovered from emails and the recommender model is trained, (2) A recommendation phase where the discovered BP knowledge are used to provide suggestions to email users. In this repository, we presents the essential part of the recommendation phase implemented in this approach: (i) Recommend_email_responses_templates.ipynb, and (ii) BP_knowledge_recommender_learned_model.ipynb.
 
 <div align="center">
-  <a href="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives">
     <img src="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives/blob/main/approach-overview.png?raw=true" alt="Logo" >
-  </a></div>
+  </div>
 
 ### Prerequisite: Structured event log
 
 <div align="center">
-  <a href="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives">
     <img src="https://github.com/ralphbn1995/E-mail-Responses-Recommendation-from-Business-Process-Perspectives/blob/main/IMG.PNG?raw=true" alt="Logo" >
-  </a></div>
+  </div>
 
 <p align="justify">To learn from the previously received emails useful BP knowledge enabling the generation of BP oriented recommendations concerning email responses, we converted the email log obtained from the Enron dataset into a structure called event log to associate with each email all the useful BP knowledge. To do so, we were based on the work of Elleuch et al. [1] </p>
   
